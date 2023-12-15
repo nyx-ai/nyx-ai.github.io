@@ -39,7 +39,7 @@ https://nyx-ai.github.io/stylegan2-flax-tpu
 
 ## The team
 
-![Martin and Florian](images/team.png)
+![Martin and Florian](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/140af537-5e5d-4dca-99f8-44ab78b0257b)
 *AI-generated image of the team*
 
 ### Martin Müller
