@@ -1,3 +1,8 @@
+---
+layout: page
+title: NyxAI
+---
+
 # NyxAI
 
 **NyxAI is a Swiss startup building state of the art tools for image generation**
@@ -16,30 +21,33 @@ Our main product, dreamlook.ai, allows businesses to create images and to train 
 
 > Finetune Stable Diffusion in Minutes
 
-https://dreamlook.ai
+[https://dreamlook.ai](https://dreamlook.ai)
 
 ### diffusion.gg
 
 > Create beautiful art from text
 
-https://www.diffusion.gg/
+[https://www.diffusion.gg](https://www.diffusion.gg)
 
 ### Nyx.gallery
 
 > AI-generated photorealistic images
 
-https://nyx.gallery
+[https://nyx.gallery](https://nyx.gallery)
 
-### Research project: "This Food Does Not Exist"
+## Our research
+
+### "This Food Does Not Exist"
 
 > Training StyleGAN2 on TPUs in JAX
 
-https://nyx-ai.github.io/stylegan2-flax-tpu
+[https://nyx-ai.github.io/stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu)
 
 
 ## The team
 
 ![Martin and Florian](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/140af537-5e5d-4dca-99f8-44ab78b0257b)
+
 *AI-generated image of the team*
 
 ### Martin Müller

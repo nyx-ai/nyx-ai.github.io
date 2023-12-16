@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            NyxAI
+tagline:          'State of the art AI tooling for image generation'
+description:      'Description description description'
+url:              https://nyxai.co/
+baseurl:          /
+
+author:
+  name:           'NyxAI'
+  url:            https://twitter.com/nyxai_lab
+
+paginate:         5
+
+# Custom vars
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
