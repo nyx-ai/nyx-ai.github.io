@@ -59,11 +59,11 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 
 ### Martin Müller
 
-[Website](https://masterscrat.github.io) / [LinkedIn](https://www.linkedin.com/in/florianlaurent/) / [Twitter](https://twitter.com/marmuel_)
+[Website](https://www.martinmuller.me/) / [LinkedIn](https://www.linkedin.com/in/martin-m%C3%BCller-053184125/) / [Twitter](https://twitter.com/marmuel_)
 
 ### Florian Laurent
 
-[Website](https://www.martinmuller.me/) / [LinkedIn](https://www.linkedin.com/in/martin-m%C3%BCller-053184125/) / [Twitter](https://twitter.com/marmuel_)
+[Website](https://masterscrat.github.io) / [LinkedIn](https://www.linkedin.com/in/florianlaurent/) / [Twitter](https://twitter.com/marmuel_)
 
 ## In the news
 
