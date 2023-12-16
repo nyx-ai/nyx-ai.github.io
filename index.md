@@ -64,4 +64,8 @@ Nyx.gallery is our cool new venture into the world of AI-generated imagery. We'r
 - [FIT Digital boosts GRAPL, NyxAI, HoliYou and Thot](https://www.startupticker.ch/en/news/fit-digital-funding-for-grapl-nyxai-holiyou-and-thot)
 - [Three aspiring startups secure capital from the Wingman campus Fund](https://www.startupticker.ch/en/news/three-aspiring-startups-secure-capital-from-the-wingman-campus-fund)
 
+## Contact
+
 You can reach out to us at [info@dreamlook.ai](mailto:info@dreamlook.ai)
+
+[LinkedIn](https://www.linkedin.com/company/nyxai) / [Twitter](https://twitter.com/NyxAI_Lab)
