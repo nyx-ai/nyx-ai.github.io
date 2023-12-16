@@ -3,13 +3,13 @@ layout: page
 title: NyxAI
 ---
 
-**Francophone?** Cette vidéo présente notre plateforme [dreamlook.ai](https://dreamlook.ai/), qui vous permets de créer des images et d'entrainer des modèles de génération d'images sur mesure :
+**Francophone?** Cette vidéo présente notre plateforme [dreamlook.ai](https://dreamlook.ai/), qui vous permets de créer des images et d'entrainer des IAs personalisées :
 
 <iframe style="width: 500px; height: 280px" src="https://www.youtube.com/embed/m3ZlFFLnlLM?controls=1&amp;modestbranding&amp;rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 ## Our Products
 
-#### dreamlook.ai
+### dreamlook.ai
 
 *Finetune Stable Diffusion in Minutes*
 
@@ -17,7 +17,7 @@ With dreamlook.ai, we aimed to revolutionize how quickly and efficiently Stable 
 
 [https://dreamlook.ai](https://dreamlook.ai)
 
-#### diffusion.gg
+### diffusion.gg
 
 *Create Beautiful Art from Text*
 
@@ -25,7 +25,7 @@ With diffusion.gg, we're all about turning text into awesome memes using Discord
 
 [https://diffusion.gg](https://diffusion.gg)
 
-#### Nyx.gallery
+### Nyx.gallery
 
 *AI-generated Photorealistic Image Gallery*
 
@@ -35,7 +35,7 @@ Nyx.gallery is our cool new venture into the world of AI-generated imagery. We'r
 
 ## Research
 
-#### "This Food Does Not Exist"
+### "This Food Does Not Exist"
 
 *Training StyleGAN2 on TPUs in JAX*
 
@@ -50,11 +50,11 @@ Nyx.gallery is our cool new venture into the world of AI-generated imagery. We'r
 
 *AI-generated image of the team*
 
-#### Martin Müller
+### Martin Müller
 
 [Website](https://masterscrat.github.io) / [LinkedIn](https://www.linkedin.com/in/florianlaurent/) / [Twitter](https://twitter.com/marmuel_)
 
-#### Florian Laurent
+### Florian Laurent
 
 [Website](https://www.martinmuller.me/) / [LinkedIn](https://www.linkedin.com/in/martin-m%C3%BCller-053184125/) / [Twitter](https://twitter.com/marmuel_)
 
