@@ -9,7 +9,7 @@ title: NyxAI
 
 ## Our Products
 
-### dreamlook.ai
+#### dreamlook.ai
 
 *Finetune Stable Diffusion in Minutes*
 
@@ -17,7 +17,7 @@ With dreamlook.ai, we aimed to revolutionize how quickly and efficiently Stable 
 
 [https://dreamlook.ai](https://dreamlook.ai)
 
-### diffusion.gg
+#### diffusion.gg
 
 *Create Beautiful Art from Text*
 
@@ -25,7 +25,7 @@ With diffusion.gg, we're all about turning text into awesome memes using Discord
 
 [https://diffusion.gg](https://diffusion.gg)
 
-### Nyx.gallery
+#### Nyx.gallery
 
 *AI-generated Photorealistic Image Gallery*
 
@@ -35,7 +35,7 @@ Nyx.gallery is our cool new venture into the world of AI-generated imagery. We'r
 
 ## Research
 
-### "This Food Does Not Exist"
+#### "This Food Does Not Exist"
 
 *Training StyleGAN2 on TPUs in JAX*
 
@@ -50,21 +50,18 @@ Nyx.gallery is our cool new venture into the world of AI-generated imagery. We'r
 
 *AI-generated image of the team*
 
-### Martin Müller
+#### Martin Müller
 
 [Website](https://masterscrat.github.io) / [LinkedIn](https://www.linkedin.com/in/florianlaurent/) / [Twitter](https://twitter.com/marmuel_)
 
-### Florian Laurent
+#### Florian Laurent
 
 [Website](https://www.martinmuller.me/) / [LinkedIn](https://www.linkedin.com/in/martin-m%C3%BCller-053184125/) / [Twitter](https://twitter.com/marmuel_)
 
 ## In the news
 
-- [Three aspiring startups secure capital from the Wingman campus Fund
-  ](https://www.startupticker.ch/en/news/three-aspiring-startups-secure-capital-from-the-wingman-campus-fund)
-- [FIT Digital boosts GRAPL, NyxAI, HoliYou and Thot
-  ](https://www.startupticker.ch/en/news/fit-digital-funding-for-grapl-nyxai-holiyou-and-thot)
-- [La Suisse romande, terre fertile pour les start-up spécialisées en intelligence artificielle
-  ](https://www.letemps.ch/economie/cyber/suisse-romande-terre-fertile-startup-specialisees-intelligence-artificielle)
+- [La Suisse romande, terre fertile pour les start-up spécialisées en intelligence artificielle](https://www.letemps.ch/economie/cyber/suisse-romande-terre-fertile-startup-specialisees-intelligence-artificielle)
+- [FIT Digital boosts GRAPL, NyxAI, HoliYou and Thot](https://www.startupticker.ch/en/news/fit-digital-funding-for-grapl-nyxai-holiyou-and-thot)
+- [Three aspiring startups secure capital from the Wingman campus Fund](https://www.startupticker.ch/en/news/three-aspiring-startups-secure-capital-from-the-wingman-campus-fund)
 
 You can reach out to us at [info@dreamlook.ai](mailto:info@dreamlook.ai)
