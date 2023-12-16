@@ -8,12 +8,11 @@ title: NyxAI
 <iframe style="width: 500px; height: 280px" src="https://www.youtube.com/embed/m3ZlFFLnlLM?controls=1&amp;modestbranding&amp;rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 ## Our Products
-
 ### dreamlook.ai
 
 *Finetune Stable Diffusion in Minutes*
 
-![dreamlook.ai](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/971eaae5-ec51-4970-81c3-fc0e757d3f65)
+![dreamlook.ai](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/301cead7-7818-4ca4-b4da-5db819eb8de1)
 
 With dreamlook.ai, we aimed to revolutionize how quickly and efficiently Stable Diffusion models can be trained, cranking up the speed to 2.5x faster and scaling to handle thousands of runs a day. We made it super easy to churn out high-quality 1024x1024 images at lightning speed, and with our Dreambooth API, we're all about robust scalability and user-friendliness. Plus, we keep it wallet-friendly - you can start training from just $0.75 a run, and we've thrown in some cool features like LoRA file extraction and a heap of training options to play with.
 
@@ -22,6 +21,8 @@ With dreamlook.ai, we aimed to revolutionize how quickly and efficiently Stable 
 ### diffusion.gg
 
 *Create Beautiful Art from Text*
+
+![diffusion.gg screenshot](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/46a778b5-c351-46b0-b84b-53e4e5a9eb3a)
 
 With diffusion.gg, we're all about turning text into awesome memes using Discord. Just type "/draw" in your Discord chat, let your imagination run wild with prompts like "a horse in space," and watch as unique, original images pop up right in your chat, thanks to the magic of Stable Diffusion, a top-notch text-to-image model. And the best part? You get started with 50 free images and keep the fun going with five more daily, all for free! Just connect the diffusion.gg bot to your Discord server and let the creative good times roll.
 
@@ -38,7 +39,6 @@ Nyx.gallery is our cool new venture into the world of AI-generated imagery. We'r
 [https://nyx.gallery](https://nyx.gallery)
 
 ## Research
-
 ### "This Food Does Not Exist"
 
 *Training StyleGAN2 on TPUs in JAX*
