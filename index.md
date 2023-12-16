@@ -3,8 +3,6 @@ layout: page
 title: NyxAI
 ---
 
-# NyxAI
-
 **NyxAI is a Swiss startup building state of the art tools for image generation**
 
 **Francophone?** Cette vidéo présente notre plateforme dreamlook.ai, qui vous permets de créer des images et d'entrainer des modèles de génération d'images sur-mesure:
@@ -17,7 +15,7 @@ Our main product, dreamlook.ai, allows businesses to create images and to train 
 
 ## Our products & research
 
-### ⚡️ dreamlook.ai
+### dreamlook.ai
 
 > Finetune Stable Diffusion in Minutes
 
@@ -34,8 +32,6 @@ Our main product, dreamlook.ai, allows businesses to create images and to train 
 > AI-generated photorealistic images
 
 [https://nyx.gallery](https://nyx.gallery)
-
-## Our research
 
 ### "This Food Does Not Exist"
 
