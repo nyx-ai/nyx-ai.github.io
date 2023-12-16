@@ -12,7 +12,7 @@ With dreamlook.ai, we revolutionize how quickly and efficiently Stable Diffusion
 
 [![dreamlook.ai](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/ff2e9951-8bf5-4677-8b07-9c78012ce81c)](https://dreamlook.ai)
 
-We made it super easy to churn out high-quality 1024x1024 images at lightning speed, and with our Dreambooth API, we're all about robust scalability and user-friendliness. Plus, we keep it wallet-friendly - you can start training from just $0.75 a run, and we've thrown in some cool features like LoRA file extraction and a heap of training options to play with.
+We made it super easy to craft high-quality Stable Diffusion models and to generate high resolution images at lightning speed. Our Dreambooth API is optimized for robust scalability and user-friendliness. We've thrown in some cool features like LoRA file extraction and a heap of training options to play with.
 
 [https://dreamlook.ai](https://dreamlook.ai)
 
@@ -20,7 +20,7 @@ We made it super easy to churn out high-quality 1024x1024 images at lightning sp
 
 *Create Beautiful Art from Text*
 
-With diffusion.gg, we're all about turning text into awesome images using Discord.
+With diffusion.gg, we're turning text into awesome images using Discord.
 
 [![diffusion.gg screenshot](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/e77f8109-a8f8-45d0-9de1-6c9df9d5e8ad)](https://diffusion.gg)
 
@@ -36,7 +36,7 @@ Nyx.gallery was our first venture into the world of AI-generated imagery.
 
 [![nyx.gallery screenshot](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/a2793878-fb08-4202-9405-82de8c824796)](https://nyx.gallery)
 
-Nyx.gallery was a mission to outdo regular stock photography by offering a vast and ever-growing selection of high-quality, photorealistic images. All these images are uniquely crafted using a mix of diffusion models and GANs, ensuring they're not just rehashes of existing web content (yes, we checked with Google Reverse Image Search!). Whether it's for a commercial project or just for fun, you're free to use these images as you please. And if you can't find what you're looking for just yet, don't sweat it – we're constantly adding more diversity to our gallery. Curious about who's behind all this? That's us, NyxAI, diving deep into generative AI to bring photorealism to life.
+Nyx.gallery was a mission to outdo regular stock photography by offering a vast and ever-growing selection of high-quality, photorealistic images. All these images were uniquely crafted using a mix of diffusion models and GANs, ensuring they're not just rehashes of existing web content (yes, we checked with Google Reverse Image Search!). Whether it's for a commercial project or just for fun, those are free to use as you please.
 
 [https://nyx.gallery](https://nyx.gallery)
 
@@ -47,7 +47,8 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 
 [![Generated cookie images](https://user-images.githubusercontent.com/140592/179369671-32cf8c67-a3d5-43a4-a200-1ba91e736ae2.png)](https://nyx-ai.github.io/stylegan2-flax-tpu)
 
-"This Food Does Not Exist" was our tasty twist on AI, where we've trained StyleGAN2 models to cook up synthetic, mouth-watering food pictures. In collaboration with EPFL's Digital Epidemiology Lab and their Food & You project, we exploreds how synthetic data can boost vision tasks. You can check out our code and pretrained models, and even try creating your own food images with our Colab notebook.
+"This Food Does Not Exist" was our tasty twist on AI, where we've trained StyleGAN2 models to cook up synthetic, mouth-watering food pictures. In collaboration with EPFL's Digital Epidemiology Lab and their Food & You project, we explored how synthetic data can boost vision tasks. You can check out our code and pretrained models, and even try creating your own food images with our Colab notebook.
+
 [https://nyx-ai.github.io/stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu)
 
 
