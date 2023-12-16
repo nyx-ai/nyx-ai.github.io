@@ -5,7 +5,7 @@ title: NyxAI
 
 **Francophone?** Cette vidéo présente notre plateforme [dreamlook.ai](https://dreamlook.ai/), qui vous permets de créer des images et d'entrainer des modèles de génération d'images sur-mesure:
 
-[video fr]
+<iframe class="w-32 absolute-iframe rounded-2xl" src="https://www.youtube.com/embed/m3ZlFFLnlLM?controls=1&amp;modestbranding&amp;rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 ## Our Products & Research
 
@@ -19,7 +19,7 @@ title: NyxAI
 
 *Create beautiful art from text*
 
-[https://www.diffusion.gg](https://www.diffusion.gg)
+[https://diffusion.gg](https://diffusion.gg)
 
 ### Nyx.gallery
 
@@ -42,15 +42,11 @@ title: NyxAI
 
 ### Martin Müller
 
-- [Website](https://masterscrat.github.io)
-- [LinkedIn](https://www.linkedin.com/in/florianlaurent/)
-- [Twitter](https://twitter.com/marmuel_)
+[Website](https://masterscrat.github.io) / [LinkedIn](https://www.linkedin.com/in/florianlaurent/) / [Twitter](https://twitter.com/marmuel_)
 
 ### Florian Laurent
 
-- [Website](https://www.martinmuller.me/)
-- [LinkedIn](https://www.linkedin.com/in/martin-m%C3%BCller-053184125/)
-- [Twitter](https://twitter.com/marmuel_)
+[Website](https://www.martinmuller.me/) / [LinkedIn](https://www.linkedin.com/in/martin-m%C3%BCller-053184125/) / [Twitter](https://twitter.com/marmuel_)
 
 ## In the news
 
@@ -61,4 +57,4 @@ title: NyxAI
 - [La Suisse romande, terre fertile pour les start-up spécialisées en intelligence artificielle
   ](https://www.letemps.ch/economie/cyber/suisse-romande-terre-fertile-startup-specialisees-intelligence-artificielle)
 
-You can reach out to us at [info@dreamlook.ai](mailto:info@dreamlook.ai).
+You can reach out to us at [info@dreamlook.ai](mailto:info@dreamlook.ai)
