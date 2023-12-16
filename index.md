@@ -3,9 +3,9 @@ layout: page
 title: NyxAI
 ---
 
-**Francophone?** Cette vidéo présente notre plateforme [dreamlook.ai](https://dreamlook.ai/), qui vous permets de créer des images et d'entrainer des modèles de génération d'images sur-mesure:
+**Francophone?** Cette vidéo présente notre plateforme [dreamlook.ai](https://dreamlook.ai/), qui vous permets de créer des images et d'entrainer des modèles de génération d'images sur mesure :
 
-<iframe class="w-32 absolute-iframe rounded-2xl" src="https://www.youtube.com/embed/m3ZlFFLnlLM?controls=1&amp;modestbranding&amp;rel=0" frameborder="0" allowfullscreen=""></iframe>
+<iframe style="width: 500px; height: 280px" src="https://www.youtube.com/embed/m3ZlFFLnlLM?controls=1&amp;modestbranding&amp;rel=0" frameborder="0" allowfullscreen=""></iframe>
 
 ## Our Products & Research
 
@@ -17,13 +17,13 @@ title: NyxAI
 
 ### diffusion.gg
 
-*Create beautiful art from text*
+*Create Beautiful Art from Text*
 
 [https://diffusion.gg](https://diffusion.gg)
 
 ### Nyx.gallery
 
-*AI-generated photorealistic images*
+*AI-generated Photorealistic Image Gallery*
 
 [https://nyx.gallery](https://nyx.gallery)
 
