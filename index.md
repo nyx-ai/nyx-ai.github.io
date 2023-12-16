@@ -13,6 +13,8 @@ title: NyxAI
 
 *Finetune Stable Diffusion in Minutes*
 
+![dreamlook.ai](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/971eaae5-ec51-4970-81c3-fc0e757d3f65)
+
 With dreamlook.ai, we aimed to revolutionize how quickly and efficiently Stable Diffusion models can be trained, cranking up the speed to 2.5x faster and scaling to handle thousands of runs a day. We made it super easy to churn out high-quality 1024x1024 images at lightning speed, and with our Dreambooth API, we're all about robust scalability and user-friendliness. Plus, we keep it wallet-friendly - you can start training from just $0.75 a run, and we've thrown in some cool features like LoRA file extraction and a heap of training options to play with.
 
 [https://dreamlook.ai](https://dreamlook.ai)
@@ -25,9 +27,11 @@ With diffusion.gg, we're all about turning text into awesome memes using Discord
 
 [https://diffusion.gg](https://diffusion.gg)
 
-### Nyx.gallery
+### nyx.gallery
 
 *AI-generated Photorealistic Image Gallery*
+
+![nyx.gallery screenshot](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/a2793878-fb08-4202-9405-82de8c824796)
 
 Nyx.gallery is our cool new venture into the world of AI-generated imagery. We're on a mission to outdo regular stock photography by offering a vast and ever-growing selection of high-quality, photorealistic images. All these images are uniquely crafted using a mix of diffusion models and GANs, ensuring they're not just rehashes of existing web content (yeah, we checked with Google Reverse Image Search!). Whether it's for a commercial project or just for fun, you're free to use these images as you please. And if you can't find what you're looking for just yet, don't sweat it – we're constantly adding more diversity to our gallery. Curious about who's behind all this? That's us, NyxAI, diving deep into generative AI to bring photorealism to life.
 
@@ -38,6 +42,8 @@ Nyx.gallery is our cool new venture into the world of AI-generated imagery. We'r
 ### "This Food Does Not Exist"
 
 *Training StyleGAN2 on TPUs in JAX*
+
+![Generated cookie images](https://user-images.githubusercontent.com/140592/179369671-32cf8c67-a3d5-43a4-a200-1ba91e736ae2.png)
 
 "This Food Does Not Exist" is our tasty twist on AI, where we've trained StyleGAN2 models to cook up synthetic, mouth-watering food pictures. In collaboration with EPFL's Digital Epidemiology Lab and their Food & You project, we're exploring how synthetic data can boost vision tasks. Our multi-class 512x512 model is a step up from the previous version, offering higher resolution and more data training for even more realistic food images, like burgers and sushi. Plus, we're transparent about our process – you can check out our code and pretrained models, and even try creating your own food images with our Colab notebook. While we chose StyleGAN for its photorealism, we acknowledge the growing trend of diffusion models like DALL·E for their flexibility, despite their larger size and slower generation times. Our approach is all about striking a balance between realism and control, and you can see the difference in our results compared to others. It's all part of the tech magic behind our AI-generated photography platform, Nyx.gallery. Follow us on Twitter for more updates on this delicious AI journey!
 
