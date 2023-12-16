@@ -3,44 +3,38 @@ layout: page
 title: NyxAI
 ---
 
-**NyxAI is a Swiss startup building state of the art tools for image generation**
-
-**Francophone?** Cette vidéo présente notre plateforme dreamlook.ai, qui vous permets de créer des images et d'entrainer des modèles de génération d'images sur-mesure:
+**Francophone?** Cette vidéo présente notre plateforme [dreamlook.ai](https://dreamlook.ai/), qui vous permets de créer des images et d'entrainer des modèles de génération d'images sur-mesure:
 
 [video fr]
 
-Our main product, dreamlook.ai, allows businesses to create images and to train custom image generation models. Check out this video to learn more:
-
-[video en]
-
-## Our products & research
+## Our Products & Research
 
 ### dreamlook.ai
 
-> Finetune Stable Diffusion in Minutes
+*Finetune Stable Diffusion in Minutes*
 
 [https://dreamlook.ai](https://dreamlook.ai)
 
 ### diffusion.gg
 
-> Create beautiful art from text
+*Create beautiful art from text*
 
 [https://www.diffusion.gg](https://www.diffusion.gg)
 
 ### Nyx.gallery
 
-> AI-generated photorealistic images
+*AI-generated photorealistic images*
 
 [https://nyx.gallery](https://nyx.gallery)
 
 ### "This Food Does Not Exist"
 
-> Training StyleGAN2 on TPUs in JAX
+*Training StyleGAN2 on TPUs in JAX*
 
 [https://nyx-ai.github.io/stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu)
 
 
-## The team
+## The Team
 
 ![Martin and Florian](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/140af537-5e5d-4dca-99f8-44ab78b0257b)
 
@@ -51,14 +45,12 @@ Our main product, dreamlook.ai, allows businesses to create images and to train 
 - [Website](https://masterscrat.github.io)
 - [LinkedIn](https://www.linkedin.com/in/florianlaurent/)
 - [Twitter](https://twitter.com/marmuel_)
-- [GitHub](https://twitter.com/masterscrat)
 
 ### Florian Laurent
 
 - [Website](https://www.martinmuller.me/)
 - [LinkedIn](https://www.linkedin.com/in/martin-m%C3%BCller-053184125/)
 - [Twitter](https://twitter.com/marmuel_)
-- [GitHub](https://github.com/mar-muel)
 
 ## In the news
 
@@ -68,3 +60,5 @@ Our main product, dreamlook.ai, allows businesses to create images and to train 
   ](https://www.startupticker.ch/en/news/fit-digital-funding-for-grapl-nyxai-holiyou-and-thot)
 - [La Suisse romande, terre fertile pour les start-up spécialisées en intelligence artificielle
   ](https://www.letemps.ch/economie/cyber/suisse-romande-terre-fertile-startup-specialisees-intelligence-artificielle)
+
+You can reach out to us at [info@dreamlook.ai](mailto:info@dreamlook.ai).
