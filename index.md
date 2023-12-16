@@ -40,7 +40,7 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 
 [https://nyx.gallery](https://nyx.gallery)
 
-## Research
+## Our Research
 ### "This Food Does Not Exist"
 
 *Training StyleGAN2 on TPUs in JAX*
@@ -48,7 +48,6 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 [![Generated cookie images](https://user-images.githubusercontent.com/140592/179369671-32cf8c67-a3d5-43a4-a200-1ba91e736ae2.png)](https://nyx-ai.github.io/stylegan2-flax-tpu)
 
 "This Food Does Not Exist" was our tasty twist on AI, where we've trained StyleGAN2 models to cook up synthetic, mouth-watering food pictures. In collaboration with EPFL's Digital Epidemiology Lab and their Food & You project, we exploreds how synthetic data can boost vision tasks. You can check out our code and pretrained models, and even try creating your own food images with our Colab notebook.
-
 [https://nyx-ai.github.io/stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu)
 
 
@@ -70,7 +69,7 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 
 - [La Suisse romande, terre fertile pour les start-up spécialisées en intelligence artificielle](https://www.letemps.ch/economie/cyber/suisse-romande-terre-fertile-startup-specialisees-intelligence-artificielle)
 - [FIT Digital boosts GRAPL, NyxAI, HoliYou and Thot](https://www.startupticker.ch/en/news/fit-digital-funding-for-grapl-nyxai-holiyou-and-thot)
-- - [TRC Researcher Spotlight - Martin Müller & Florian Laurent](https://sites.research.google/trc/spotlight/#:~:text=Martin%20M%C3%BCller%20&%20Florian%20Laurent)
+- [TRC Researcher Spotlight - Martin Müller & Florian Laurent](https://sites.research.google/trc/spotlight/#:~:text=Martin%20M%C3%BCller%20&%20Florian%20Laurent)
 - [Three aspiring startups secure capital from the Wingman campus Fund](https://www.startupticker.ch/en/news/three-aspiring-startups-secure-capital-from-the-wingman-campus-fund)
 
 ## Contact
