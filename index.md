@@ -3,8 +3,8 @@ layout: page
 title: NyxAI
 ---
 
-## Our Products
-### dreamlook.ai
+# Our Products
+# dreamlook.ai
 
 *Finetune Stable Diffusion in Minutes*
 
@@ -16,7 +16,7 @@ We made it super easy to craft high-quality Stable Diffusion models and to gener
 
 [https://dreamlook.ai](https://dreamlook.ai)
 
-### diffusion.gg
+## diffusion.gg
 
 *Create Beautiful Art from Text*
 
@@ -28,7 +28,7 @@ Just type "/draw" in your Discord chat, let your imagination run wild with promp
 
 [https://diffusion.gg](https://diffusion.gg)
 
-### Nyx.gallery
+## Nyx.gallery
 
 *AI-generated Photorealistic Image Gallery*
 
@@ -40,8 +40,8 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 
 [https://nyx.gallery](https://nyx.gallery)
 
-## Our Research
-### "This Food Does Not Exist"
+# Our Research
+## "This Food Does Not Exist"
 
 *Training StyleGAN2 on TPUs in JAX*
 
@@ -52,28 +52,28 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 [https://nyx-ai.github.io/stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu)
 
 
-## The Team
+# The Team
 
 ![Martin and Florian](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/140af537-5e5d-4dca-99f8-44ab78b0257b)
 
 *AI-generated image of the team*
 
-### Martin Müller
+## Martin Müller
 
 [Website](https://www.martinmuller.me/) / [LinkedIn](https://www.linkedin.com/in/martin-m%C3%BCller-053184125/) / [Twitter](https://twitter.com/marmuel_)
 
-### Florian Laurent
+## Florian Laurent
 
 [Website](https://masterscrat.github.io) / [LinkedIn](https://www.linkedin.com/in/florianlaurent/) / [Twitter](https://twitter.com/marmuel_)
 
-## In the news
+# In the news
 
 - [La Suisse romande, terre fertile pour les start-up spécialisées en intelligence artificielle](https://www.letemps.ch/economie/cyber/suisse-romande-terre-fertile-startup-specialisees-intelligence-artificielle)
 - [FIT Digital boosts GRAPL, NyxAI, HoliYou and Thot](https://www.startupticker.ch/en/news/fit-digital-funding-for-grapl-nyxai-holiyou-and-thot)
 - [TRC Researcher Spotlight - Martin Müller & Florian Laurent](https://sites.research.google/trc/spotlight/#:~:text=Martin%20M%C3%BCller%20&%20Florian%20Laurent)
 - [Three aspiring startups secure capital from the Wingman campus Fund](https://www.startupticker.ch/en/news/three-aspiring-startups-secure-capital-from-the-wingman-campus-fund)
 
-## Contact
+# Contact
 
 You can reach out to us at [info@dreamlook.ai](mailto:info@dreamlook.ai)
 

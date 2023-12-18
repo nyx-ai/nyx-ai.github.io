@@ -1,17 +1,9 @@
 # Dependencies
-markdown:         redcarpet
-highlighter:      pygments
+markdown: redcarpet
+highlighter: pygments
 
 # Setup
-title:            NyxAI
-tagline:          'State of the art AI tooling for image generation'
-description:      'State of the art AI tooling for image generation'
-url:              https://nyxai.co/
-baseurl:          /
-
-author:
-  name:           'NyxAI'
-  url:            https://twitter.com/nyxai_lab
-
-github:
-  repo:           https://github.com/nyx-ai/nyx-ai.github.io
+title: NyxAI
+tagline: 'State of the art AI tooling for image generation'
+url: https://nyxai.co/
+baseurl: /
