@@ -6,8 +6,8 @@ title: NyxAI
 ## Our Products
 
 <p class="message">
-  **Francophone?** Cette vidéo présente notre plateforme [https://dreamlook.ai](https://dreamlook.ai), qui vous permets de créer des images et d’entrainer des modèles de génération d’images sur mesure :<br/>
-    <iframe style="margin-top: 10px; width: 700px; max-width: 100%; height: 400px" src="https://www.youtube.com/embed/2KHFEQLuYJQ?controls=1&amp;modestbranding&amp;rel=0" frameborder="0" allowfullscreen=""></iframe>
+  <b>Francophone ?</b> Cette vidéo présente notre plateforme <a href="https://dreamlook.ai">https://dreamlook.ai</a>, qui vous permets de créer des images et d’entrainer des modèles de génération d’images sur mesure :<br/>
+    <iframe style="margin-top: 10px; width: 700px; max-width: 100%; height: 382px" src="https://www.youtube.com/embed/2KHFEQLuYJQ?controls=1&amp;modestbranding&amp;rel=0" frameborder="0" allowfullscreen=""></iframe>
 </p>
 
 ### dreamlook.ai
