@@ -4,6 +4,12 @@ title: NyxAI
 ---
 
 ## Our Products
+
+<p class="message">
+  **Francophone?** Cette vidéo présente notre plateforme [https://dreamlook.ai](https://dreamlook.ai), qui vous permets de créer des images et d’entrainer des modèles de génération d’images sur mesure :<br/>
+    <iframe style="margin-top: 10px; width: 700px; max-width: 100%; height: 400px" src="https://www.youtube.com/embed/2KHFEQLuYJQ?controls=1&amp;modestbranding&amp;rel=0" frameborder="0" allowfullscreen=""></iframe>
+</p>
+
 ### dreamlook.ai
 
 *Finetune Stable Diffusion in Minutes*
@@ -52,7 +58,7 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 [https://nyx-ai.github.io/stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu)
 
 
-## The Team
+## Our Team
 
 ![Martin and Florian](https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/140af537-5e5d-4dca-99f8-44ab78b0257b)
 
