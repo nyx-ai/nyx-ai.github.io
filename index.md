@@ -79,6 +79,15 @@ Nyx.gallery was a mission to outdo regular stock photography by offering a vast 
 - [TRC Researcher Spotlight - Martin Müller & Florian Laurent](https://sites.research.google/trc/spotlight/#:~:text=Martin%20M%C3%BCller%20&%20Florian%20Laurent)
 - [Three aspiring startups secure capital from the Wingman campus Fund](https://www.startupticker.ch/en/news/three-aspiring-startups-secure-capital-from-the-wingman-campus-fund)
 
+## Our supporters
+
+<div style="display: flex; justify-content: left; align-items: center;">
+    <img style="margin: 5px;" src="https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/14a8d34e-9a62-4e8f-8652-231e9ff3541a" alt="Wingman Campus Fund" width="200"/>
+    <img style="margin: 5px;" src="https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/65be42a8-83e1-48ff-9535-3925b8996b1d" alt="FIT Digital" width="200"/>
+    <img style="margin: 5px;" src="https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/82b3bb2a-b2ec-4f93-8f99-863e3cde62dd" alt="La Forge" width="200"/>
+    <img style="margin: 5px;" src="https://github.com/nyx-ai/nyx-ai.github.io/assets/140592/2e9d96e2-7b8a-413a-9b5c-bda95e4e49dc" alt="Trust Village" width="200"/>
+</div>
+
 ## Contact
 
 Reach out to us at [info@dreamlook.ai](mailto:info@dreamlook.ai)
